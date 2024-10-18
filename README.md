@@ -5,7 +5,9 @@ Soy estudiante avanzado de Ciencias de Datos en la Universidad de Buenos Aires (
 ## 🚀 Habilidades Destacadas
 
 - **Python**: Desarrollo de soluciones avanzadas en Machine Learning, análisis de datos (visualizacon, modelado, limpieza, etc) y simulaciones físicas.
+- **Modelado Matematico**: Fuerte formacion en modelado y resolucion de problemas matematicos de todo tipo
 - **Algoritmos y Estructuras de Datos**: Resolución de problemas en Backtracking, Grafos, Programación Dinámica, entre otros.
+- **Elaboración de informes**: Presentacion de graficos, indicies y conclusiones a partir de datos 
 
 ## 📂 Proyectos Destacados
 
