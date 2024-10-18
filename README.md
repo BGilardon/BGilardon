@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Bautista Gilardón
+# 👋 ¡Hola! Soy Bautista Gilardon
 
 Soy estudiante avanzado de Ciencias de Datos en la Universidad de Buenos Aires (UBA) con un fuerte enfoque en el análisis y modelado matemático-computacional. Mi experiencia abarca desde la creación de modelos de Machine Learning hasta la resolución de problemas algorítmicos complejos. Además, disfruto compartir mi conocimiento dictando talleres y clases particulares sobre matematica y programación.
 
