@@ -8,6 +8,12 @@ Soy estudiante avanzado de Ciencias de Datos en la Universidad de Buenos Aires (
 - **[Desafios_Algoritmos_Avanzados_Python](https://github.com/BGilardon/Desafios_Algoritmos_Avanzados_Python)**: Soluciones a desafíos de algoritmos en áreas como grafos y programación dinámica.
 - **[Analisis_SUBE](https://github.com/BGilardon/Analisis_SUBE)**: Análisis del uso del transporte público en Buenos Aires, utilizando técnicas de series temporales y clústeres.
 
+## 🤝 Proyectos en Equipo
+
+- **[IN7605-Tarea2](https://github.com/HBKfdo/IN7605-Tarea2)**: Creación de un pipeline para resolver problemas MIP (Programación Lineal Mixta) mediante heurísticas. El enfoque combina una fase de construcción inicial con una fase de mejora, logrando soluciones de buena calidad de forma eficiente.
+- **[TP-FINAL](https://github.com/laracalderon/TP-FINAL)**: Implementación del **Traveling Tournament Problem (TTP)** bajo un enfoque heurístico. Se diseñaron estrategias para minimizar tiempos de viaje y conflictos de calendario, obteniendo resultados competitivos en múltiples instancias.
+
+
 ## 🚀 Habilidades Destacadas
 
 - **Python**: Desarrollo de soluciones avanzadas en Machine Learning, análisis de datos (visualizacon, modelado, limpieza, etc) y simulaciones físicas.
